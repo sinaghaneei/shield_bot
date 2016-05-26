@@ -239,18 +239,18 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {144152859},--Sudo users
+    sudo_users = {169901225},--Sudo users
     disabled_chann144152859els = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[shield_bot 1.0
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by :@TRG1990
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @amirmr33   〰〰〰〰〰〰〰〰
+   ߔࠀ   @TRG1990   〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
@@ -342,7 +342,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Creed bots Help for mods : Plugins
+shield bot Help for mods : Plugins
 
 Banhammer : 
 
@@ -533,10 +533,7 @@ To tags the every one and sends your message at bottom
 
 〰〰〰〰〰〰〰〰〰
 More plugins  soon ...
-⚠️ We are Creeds ⚠️
-
-our channel : @creedantispam_channel
-کانال ما
+⚠️WE ARE LIKE A shield ⚠️
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
